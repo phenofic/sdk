@@ -13,6 +13,9 @@
   "files": [
     "/src"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "lint": "eslint src",
     "semantic-release": "semantic-release",
