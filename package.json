@@ -1,6 +1,6 @@
 {
   "name": "@phenofic/sdk",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Get and create templates and notifications for users with Phenofic",
   "keywords": [
     "phenofic"
