@@ -1,13 +1,13 @@
 {
   "name": "@phenofic/sdk",
   "version": "1.2.0",
-  "description": "",
+  "description": "Get and create templates and notifications for users with Phenofic",
   "keywords": [
     "phenofic"
   ],
   "author": "phenofic",
   "license": "ISC",
-  "main": "src/index.js",
+  "exports": "./src/index.js",
   "type": "module",
   "repository": "https://github.com/phenofic/sdk.git",
   "files": [

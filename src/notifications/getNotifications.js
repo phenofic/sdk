@@ -1,7 +1,7 @@
 import axios from 'axios';
-import getBaseHeaders from '../getBaseHeaders';
-import getBaseUrl from '../getBaseUrl';
-import verifyConfig from '../verifyConfig';
+import getBaseHeaders from '../getBaseHeaders.js';
+import getBaseUrl from '../getBaseUrl.js';
+import verifyConfig from '../verifyConfig.js';
 
 const getNotifications = (userId, config) => {
   if (!userId) throw new Error('Must provide userId');

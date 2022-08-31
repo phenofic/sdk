@@ -1,5 +1,5 @@
 // reference package.json
-const version = '0.1.0';
+const version = '1.2.1';
 
 const getBaseHeaders = ({ apiVersion = 1, apiKey, clientId }) => ({
   'Accept': `application/vnd.phenofic.v${apiVersion}+json`,

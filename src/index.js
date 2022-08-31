@@ -1,2 +1,2 @@
-export * from './notifications/notifications';
-export * from './templates/templates';
+export * from './notifications/notifications.js';
+export * from './templates/templates.js';
